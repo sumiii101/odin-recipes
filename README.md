@@ -1,0 +1,1 @@
+This is my first odin project and I will be demonstrating all the skills i have acquired over the foundation course.This entails of things such as: Using headings, using bold/italics, paragraphing, hyperlinks ect.
